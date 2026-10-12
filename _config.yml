@@ -1,0 +1,10 @@
+title: Go Deliver!
+description: Go Deliver! support pages (privacy policy)
+theme: minima
+baseurl: "/godeliver-site"
+lang: ko
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
